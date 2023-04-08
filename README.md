@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **sakshibargajework20@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/15JWSF75Ecmr1525GzIXL4YTC-SvUnEva/view?usp=drivesdk](https://drive.google.com/file/d/15JWSF75Ecmr1525GzIXL4YTC-SvUnEva/view?usp=drivesdk)
+
 - ⚡ Fun fact **I've taken underwater photographs of a school of giant sea turtles while scuba diving in the Andaman islands.**
 
 <h3 align="left">Connect with me:</h3>
