@@ -1,3 +1,4 @@
+![logo](https://github.com/SakshiBargaje20/SakshiBargaje20/blob/main/Sakshi%20P.%20Bargaje.png)
 <h1 align="center">Hi there👋,data superheroes! I'm Sakshi Bargaje, and I'm thrilled to be here.</h1>
 <h3 align="center">Resourceful data analyst with experience in Excel,PowerBI and SQL</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
